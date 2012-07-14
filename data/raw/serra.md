@@ -1,0 +1,143 @@
+Propostas de governo
+====================
+
+Introdução
+----------
+
+É gratificante projetar diretrizes de governo para a cidade de São Paulo quando sentimos sob nossos passos um caminho pavimentado por realizações que beneficiaram, com tanta clareza, milhões de pessoas. E principalmente aquelas que mais precisavam – e continuam precisando – do amparo do poder público.
+
+É um desafio honroso avançar semeando projetos, esperanças e certezas nessa trilha de muitos frutos colhidos graças ao trabalho integrado de duas prefeituras: a municipal e a estadual, parceria testada e aprovada pelos eleitores desde 2004.
+
+Os governos estaduais do PSDB e de seus aliados em São Paulo, pelo comportamento republicano, leal, produtivo e consequente, são um exemplo de comportamento para a esfera federal. Aqui sempre investimos com intensidade e seriedade.
+
+A parceria da cidade com a União merece ser ampliada em razão da enorme contribuição dos paulistanos. Temos o direito de receber mais, com justiça. Basta lembrar que o governo federal arrecada na capital paulistana R$ 143 bilhões por ano. E devolve menos de R$ 2 bilhões. A reestruturação da dívida da prefeitura com o governo federal, ora em curso, será o primeiro passo para alcançar esse objetivo.
+
+São Paulo é a cidade que mais de 11 milhões de brasileiros escolheram como teto, escola, emprego, lazer e esperança de vida para seus filhos. É um verdadeiro país em contínua transformação, à procura de mais desenvolvimento, de novos horizontes.
+
+Juntos, precisamos travar uma luta diária e permanente, de gigantes. De um lado, enquanto muitos problemas são resolvidos ou dominados, outros surgem ou ressurgem com força duplicada. Do outro, os brasileiros de São Paulo, independentemente de onde nasceram, não se vergam, resistem e avançam. A eles, mais uma vez, pedimos a participação, em forma de sugestões, ideias, discussão e adensamento dos nossos projetos de governo.
+
+O prefeito está no centro dessa arena, não como árbitro, mas diante do desafio de encontrar soluções, harmonizar a criação do até então não-imaginado, o planejamento do necessário e a ampliação dos limites conhecidos do possível.
+
+Administrar com inovação, planejamento e capacidade de gestão e realização não é tarefa que se resolva por tentativa e erro, ou que se possa cumprir por simples apadrinhamento. O passado mostra o risco para a cidade dos que chegam de garupa ou esperam cair de paraquedas na prefeitura. A sociedade já entende e reconhece que, por esse caminho, a maioria dos desafios — trânsito, saúde e segurança, por exemplo — não será equacionada e muito menos resolvida a não ser na retórica que confunde e mistura crítica com prestidigitação.
+
+Lastreado nas minhas origens na Mooca, no exemplo de trabalho de meus pais, na escola pública onde estudei e na escola da vida pública que frequentei desde a juventude, manifesto meu propósito de, novamente, governar com criatividade e com energia. Com determinação de somar e acertar; de inovar e avançar; de ousar e revolucionar.
+
+Essas palavras refletem ações que materializei, produzindo resultados, ao longo de minha história de homem público. Sempre com a participação de equipes trabalho dedicadas e capazes.
+
+Em seguida, apresentaremos o balanço do muito que foi feito ou está em andamento, indispensável para a compreensão da política, da cidade e do nosso estilo de governar; a multiplicação de projetos testados e aprovados, obrigação de quem os criou; e os novos empreendimentos inovadores, trazendo o futuro mais próximo do presente.
+
+São Paulo e seu tamanho
+-----------------------
+
+Nossa cidade é uma das grandes capitais mundiais e a maior metrópole das Américas. É a quarta do planeta que recebe mais investimentos, a que tem mais eventos nacionais e internacionais na América Latina, e a que recebe o maior fluxo de turismo de negócios e compras da região. A cada fim de semana, temos mais de 100 peças de teatro em cartaz. Aqui estão os grandes musicais. Das 170 grandes feiras e exposições que se realizam no Brasil, 140 acontecem na nossa cidade. Das 180 maiores corporações do mundo, mais da metade opera em São Paulo. A metrópole paulistana possui as melhores universidades do Brasil e o maior volume de ensino técnico e tecnológico. Abriga um dos mais avançados centros de medicina do mundo.
+
+O desenvolvimento paulistano se deve ao nosso povo batalhador, generoso, inquieto e ousado, tanto faz se nascido aqui ou vindo de outros lugares. Aqui moram pessoas de todas as religiões, todas as origens, todos os times, com um traço em comum: a paixão pela cidade e seu estilo de vida. Aqui se progride, se vai em frente.
+
+São Paulo tem um vigésimo da população brasileira e um oitavo do PIB. Sua renda por habitante é duas vezes e meia a do país. Sua taxa de mortalidade infantil é quase a metade da brasileira. Desde 2004, a cidade cresce mais do que o Brasil, na produção e no emprego.
+Realizações
+
+Esse desempenho é fruto do esforço do nosso povo, de sua capacidade de trabalho e talento para inovar, bem como das ações e dos investimentos dos governos municipal e estadual nos últimos anos, que são os maiores da nossa história. Investimentos na área social e no combate à pobreza, na infraestrutura, no meio ambiente, na formação de recursos humanos e tecnológicos.
+
+Sobressaem as obras do Rodoanel Oeste e Sul, a Nova Marginal e seus acessos, a Jacu-Pêssego, o complexo viário Lapa-Anhanguera, bem como a expansão do Metrô e dos trens de passageiros, sem mencionar dezenas de outras intervenções urbanas em toda a cidade. E, pela primeira vez em muitas décadas, a prefeitura passou a contribuir com recursos para a expansão da rede metroviária.
+
+Novos Poupatempos foram feitos, bem como a extensão do bilhete único aos trens e ao Metrô, além do aumento da validade do bilhete de duas para três horas.
+
+Foram implantadas a Nota Fiscal Paulista e a Nota Fiscal Paulistana, que devolvem dinheiro dos impostos aos cidadãos, caso único nesses tempos de tanta voracidade tributária.
+
+Foi criada a Operação Delegada da PM na Capital e elevado o investimento na tecnologia da Segurança. Inovou-se com a criação dos Centros de Apoio ao Trabalho, os CATs, que hoje são mais de trinta em toda a cidade.
+
+Aumentou-se em 40 mil vagas o Ensino Técnico e Tecnológico na Capital. O nosso IPT (Instituto de Pesquisas Tecnológicas), vanguarda no Brasil, recebeu um enorme impulso na pesquisa e inovação em tecnologias de ponta.
+
+Outras duas inovações foram a criação das AMAs (Atendimento Médico Ambulatorial) e dos AMEs (Ambulatórios Médicos de Especialidades): somados, são 140 unidades. As unidades de Saúde Mental e Bucal praticamente dobraram. Foram criados novos hospitais, como o Cidade Tiradentes, M'Boi Mirim e Instituto do Câncer Octávio Frias de Oliveira, o maior e mais avançado do Brasil. Concebemos e implantamos o programa Mãe Paulistana; organizamos uma ampla e eficiente distribuição gratuita de 170 medicamentos, além do remédio em casa, que atende a cerca de 250 mil pessoas. Outra inovação foi a Rede Lucy Montoro, formada por centros de reabilitação do deficiente, ao lado de clínicas e ambulatórios para tratamento dos dependentes de drogas.
+
+O programa Cidade Limpa foi bem sucedido, do mesmo modo que a transformação do gás metano do lixo em energia elétrica e a expansão dos parques, de 34 para 82, duplicando as áreas verdes da cidade. São Paulo foi a capital brasileira que mais avançou na frota de ônibus com energia limpa — mais de 2 mil ônibus já compõem sua Ecofrota. Pela primeira vez deu-se estimulo à utilização da bicicleta, com as ciclovias, ciclofaixas, ciclorrotas, bicicletários e programas escolares específicos. A cidade avançou na área de proteção de mananciais, na recuperação de córregos, nos parques lineares, no combate às enchentes. Favelas foram sendo transformadas em bairros, em projetos premiados internacionalmente, como Paraisópolis, Jardim Colombo, Heliópolis, Jardim São Francisco, Real Parque, Cantinho do Céu, que receberam moradias, redes de água e esgoto, drenagem, regularização fundiária, recuperação ambiental, sistema viário, praças, áreas verdes, iluminação e equipamentos sociais.
+
+Aos bairros mais distantes, chegaram as Fábricas de Cultura para os jovens. A Virada Cultural e a Virada Esportiva foram inovações que conquistaram o Brasil. A Biblioteca de São Paulo, lá no Carandiru, o Parque do Belém, onde ficava a antiga Febem, o Centro Cultural da Juventude Ruth Cardoso, na fronteira da Brasilândia com a Vila Nova Cachoeirinha, o Museu da Língua Portuguesa, a Sala São Paulo e a Pinacoteca, no bairro da Luz, o Museu do Futebol, no Pacaembu, o Espaço Catavento de Ciência e Tecnologia, no Parque Dom Pedro II, e a São Paulo Escola de Teatro, na Praça Roosevelt, a restauração do Teatro Municipal e da Biblioteca Mário de Andrade e a implantação do novo Museu de Arte Contemporânea, tudo isso expressa muito bem o novo paradigma que se estabeleceu na cultura da cidade.
+
+A recuperação da cidade
+-----------------------
+
+Não é demais lembrar que tudo isso exigiu um esforço imenso. Quando assumimos a prefeitura, em janeiro de 2005, havia R$ 16 mil na conta bancária do município, rombo superior a R$ 2 bilhões, 8 mil empenhos cancelados, fila de quase 13 mil credores, obras e serviços interrompidos. O caminho da recuperação foi árduo.
+
+Em vez de criar novos impostos, eliminamos a malfadada taxa do lixo, modernizamos a máquina fiscal, reduzimos custos, pusemos as finanças em ordem, retomamos os investimentos Lutamos para colocar a cidade de pé e para fazê-la avançar, de maneira firme, segura e em todos os setores. O orçamento da prefeitura é hoje duas vezes maior em termos reais. Os investimentos, 50% mais altos.
+
+Encontramos na metrópole apenas 60 mil vagas em creches gratuitas. Hoje, são mais de 205 mil, quase 3,5 vezes a mais. Encontramos 75 mil alunos em escolas de lata: em apenas dois anos, acabamos com todas as unidades, substituindo-as por prédios confortáveis. O piso salarial dos professores era de R$ 1.215; hoje é de R$ 2.600. No fim de 2004, quase 80% dos alunos do município estavam em escolas com três turnos diários — o chamado terceiro turno. Essa proporção caiu hoje para 3%! Com os dois turnos, o tempo de permanência nas escolas, que era de quatro horas, saltou para cinco. Como se fossem dois anos a mais em aulas no ensino fundamental. Mais ainda: hoje, 300 mil alunos do município podem ocupar inteiramente o período do contraturno escolar, com atividades de esporte, cultura, lazer.
+
+Diretrizes para o futuro
+------------------------
+
+Nossa cidade avançou, bastante, mas precisa ir mais longe. Há mais coisas a fazer do que já fizemos. O futuro nos aguarda. Temos de andar depressa, com ousadia para inovar, coragem para enfrentar desafios, experiência para resolver problemas, capacidade executiva para fazer acontecer.
+
+Espaço e serviços públicos
+--------------------------
+
+Vamos fazer funcionar bem o que já está construído e em operação. Cuidar de ruas, praças e calçadas. O espaço público é o espaço democrático por excelência, pois a ele todos têm acesso, independentemente de sua condição social e econômica. O meio ambiente, que a todos envolve, e os serviços públicos, que atendem a todos, precisam ter a qualidade de que a população necessita. Vamos fortalecer os bairros, o bairro vivo, o que aumenta a segurança, diminui as necessidades de grandes deslocamentos, aproxima a prefeitura das pessoas. Abrir mais a administração para as demandas e informações dos próprios cidadãos, por intermédio de um novo 156, celulares, internet, totens, TV digital e telefone. Modernizar a máquina administrativa, eliminando procedimentos desnecessários, simplificando os que permanecerem, aplicando a tecnologia digital mais avançada para atender, controlar e fiscalizar. Nada de se criarem dificuldades para vender facilidades. Rigor absoluto e tolerância zero na fiscalização.
+
+Urbanização e moradias
+----------------------
+
+Multiplicaremos a implantação dos projetos testados e aprovados, que assinalamos no balanço do que fizemos, como é o caso da transformação das favelas em bairros. Vamos implantar o Plano Municipal de Habitação, já aprovado em primeira votação da Câmara Vamos, e promover o adensamento de moradias e empregos em áreas mais próximas dos centros da cidade. Levar as pessoas e mais atividade econômica para áreas que hoje já possuem infraestrutura, mas têm pouca população. Cidade mais densa em vez de cidade espraiada que amplia as distâncias, sobrecarrega os transportes, degrada o meio ambiente, aumenta a insegurança.
+
+Novos polos de desenvolvimento
+------------------------------
+
+Temos grandes projetos para a remodelagem urbana, visando o adensamento, o fortalecimento de polos comerciais, culturais e de serviços e a revitalização de antigas áreas industriais, em consonância com os novos requisitos ambientais e urbanos. No Parque Dom Pedro, na Mooca-Ipiranga, na Lapa- Brás, no Rio Verde-Jacu, que envolve o novo polo econômico de Itaquera, na Nova Luz, na Água Branca, na Água Espraiada, nos Campos Elíseos e em Pirituba, com o grande centro de eventos e convenções que comandará o desenvolvimento da região noroeste da metrópole. Sem falar da retomada do Campo de Marte, que pertence ao município, graças à batalha jurídica que travamos.
+
+Atração de Investimentos
+------------------------
+
+O desenvolvimento econômico de São Paulo, gerando boas oportunidades de emprego e renda para as famílias, exige que a cidade aperfeiçoe e renove continuamente suas vantagens comparativas, capazes de atrair investimentos. Para isso, implantaremos uma política municipal de desenvolvimento, voltada à economia moderna de uma cidade mundial como a nossa.
+
+Eventos e turismo na cidade mundial
+-----------------------------------
+
+Fortaleceremos a vocação de São Paulo para acolher grandes eventos e turismo de negócios e lazer. Com segurança e qualidade. Neste últimos sete anos a cidade avançou como nunca nessa direção, graças ao estímulo e aos investimentos municipais e estaduais. Mas será essencial expandir e modernizar os equipamentos públicos como é o caso da EXPO Pirituba e de parte da área do Campo de Marte. Eventos como Fórmula 1, Fórmula Indy, Bienal do Livro, Fashion Week, Virada Cultural, a próxima Copa do Mundo, são exemplos de vitalidade, mas precisamos dar mais amplitude, eficiência e planejamento aos sistemas de organização de eventos, mais coordenados, com prioridades definidas e melhor exploração dos espaços disponíveis, alguns, hoje, pouco aproveitados, como os Parques do Carmo, da Luz, do Trote, Vilasboas, Ibirapuera, Interlagos, ou o pr ́poprio ginásio do Ibirapuera, o Pacaembú.
+
+Investimento no ensino técnico
+------------------------------
+
+Fortaleceremos outra vocação paulistana: a qualidade do trabalho. Nos últimos anos, mais do que duplicaram alunos das FATECs e as ETECs. Criaremos agora um Centro Paula Souza municipal e nos próximos anos exapndiremos ainda mais a educação para o trabalho, em parceria com o Governo do Estado e recorrendo também aos CATs e ao sistema S.
+
+Tecnologia e produção
+---------------------
+
+Faremos dois polos tecnológicos, no Jaguaré, ao lado da Cidade Universitária e do IPT, e em Itaquera, nas vizinhanças do estádio da Copa do Mundo. Além disso, incentivaremos polos digitais, de esportes e de comunicação e artes, com produção de cinema e TV, teatro e dança. Inovações para o desenvolvimento, como a coordenação entre a indústria de confecção, regiões de comércio varejista e turismo de compras, na chamada "indústria da moda".
+
+Empreendedorismo
+----------------
+
+Vamos estimular o empreendedorismo e multiplicar as possibilidades dos pequenos empresários na economia da cidade. Para isso, avançaremos na desburocratização, na expansão dos canais de microcrédito e no acesso dos pequenos empresários a serviços especializados e inovações. São Paulo foi uma cidade pioneira no apoio aos Microempreendedores Individuais – MEIs e continuará fortalecendo essa política.
+
+Investimento em Transportes
+---------------------------
+
+Prosseguiremos no apoio ao metrô e à CPTM. O governo do Estado já está tocando quatro linhas novas. No ano que vem serão sete. Vamos dar tudo para melhorar o funcionamento dos ônibus: corredores, como o do M'Boi e da Radial Leste, revisão da rede de terminais, reorganização das linhas. Investir mais ainda no trânsito, inclusive na educação, como está sendo feito pela prefeitura em relação aos pedestres.
+
+Segurança Pública Inteligente
+-----------------------------
+
+Fortaleceremos a segurança municipal inteligente, com muito ativismo, novas tecnologias, cooperação total com o governo do Estado e apoio ao Consegs. Procuraremos, dentro das possibilidades da PM, duplicar seus contingentes que hoje prestam serviço ao município via Operação Delegada.
+
+Saúde Integrada
+---------------
+
+Na Saúde, investiremos o máximo no acesso aos serviços, mediante integração maior com a área estadual - gestão integrada - bem como a utilização da tecnologia digital, como as centrais de exames, e a concentração de esforços no atendimento de emergência e na atenção básica, que serão reorganizados. Duas prioridades dos nossos governos no Estado e na cidade serão renovadas: a acessibilidade e a reabilitação do deficiente, cujo avanço nos últimos sete anos não teve paralelo no Brasil, e a educação contra o consumo de drogas, além dos grandes esforços já iniciados no âmbito estadual e municipal para tratamento e reabilitação dos dependentes químicos.
+
+Qualificação da Educação
+------------------------
+
+Na Educação, reforçaremos o círculo virtuoso já iniciado, enfatizando ao máximo a qualificação dos professores e o programa Ler e Escrever, com os dois professores por sala de aula no primeiro ano, com o currículo unificado e desenvolvido para a realidade da escola municipal, e com a recuperação paralela dos alunos com desempenho abaixo do esperado. Melhor qualidade do ensino será sempre o nosso norte e nosso dever de cada dia.
+
+Ativismo cultural e esportivo
+-----------------------------
+
+Na Cultura, finalizaremos a Praça das Artes, ao lado no Teatro Municipal e da Avenida São João e o Centro de Formação Cultural da Cidade Tiradentes. Cooperaremos com o Estado na implantação do Teatro da Dança, na antiga Rodoviária. Implantaremos a Rede Ruth Cardoso de Centros Culturais da Juventude. Apoiaremos o Estado nas novas Fábricas de Cultura. Faremos o Centro de Treinamento e Excelência no Esporte; recuperaremos o Centro Olímpico de Treinamento e`Pesquisa do Ibirapuera. Mas, acima de tudo, daremos sequência ao ativismo cultural e esportivo em toda a cidade, envolvendo todas a suas regiões e distritos.
+
+Civilização ambiental
+---------------------
+
+Outro círculo virtuoso está no meio ambiente saudável, que incorpora a dimensão da sustentabilidade, em todos os seus aspectos, na social democracia. Um grande objetivo será a implantação da leis de Mudanças Climáticas aprovadas no Estado e no município, consideradas as mais avançadas do Hemisfério Sul. A prefeitura vai usar seu poder de compra, de indução e de regulamentação para incentivar tecnologias verdes. Enfatizaremos a Cidade Limpa, a educação ambiental, a reciclagem do lixo, a energia limpa nos ônibus e outros veículos, a expansão dos modelos híbridos e dos trólebus (desativados na gestão petista e reativados na nossa), mais parques e áreas verdes, menos córregos sujos, mais saneamento.
+
+É fundamental revitalizar os cursos d'água da cidade, criando parques lineares e de lazer, como foi feito no Tiquatira, Parelheiros, Canivete, Ipiranguinha e muitos outros, além do grande Parque Várzeas do Tietê, atualmente executado pelo Governo do Estado, em parceria com a Prefeitura. Para a defesa e recuperação dos mananciais será essencial desenvolver na Zona Sul da cidade atividades e investimentos que ajudem a preservação, como o turismo, o lazer e os eventos, como é o caso, por exemplo, de Interlagos.
+
+Essas todas são propostas que serão debatidas ao longo da nossa campanha. Recolheremos ideias e opiniões, em grupos de discussão, nas visitas aos bairros e entidades, nas redes sociais, em toda a cidade.

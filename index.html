@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Esquerdometro</title>
+	<script type="text/javascript" src="js/vendor/jquery-1.7.1/jquery.min.js"></script>
+    <style>
+    p.esquerda {
+        color:red;
+    }
+    p.direita {
+        color:blue;
+    }
+    p.indiferente {
+        color:gray;
+    }
+    </style>
+	<script>
+    var cand_count = 0;
+    function loadJson(url) {
+        var json = '';
+        $.ajax({
+        'async': false,
+        'global': false,
+        'url': url,
+        'dataType': "json",
+        'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    };
+    
+    function randomCand() {
+        var cand_id = Math.floor((Math.random()*data.length));
+        return cand_id;
+    }
+    
+    function vote(cand_id, propo_id, choice) {
+        data[cand_id][propo_id][2] = choice;
+        console.log(data[cand_id][propo_id]);
+        renderChunk();
+    }
+    
+    function renderChunk() {
+        var cand_id = randomCand();
+        d = data[cand_id]
+        var chunks = []
+        $.each(d, function(i, item) {
+            if (item[0] == 'para' && item[2] == undefined) {
+                chunks.push([ i, item[1]]);
+            }
+        
+        });
+        var chunks_count = chunks.length+1;
+        var chunk_choice = Math.floor((Math.random()*chunks_count));
+        $("#bloco").text(chunks[chunk_choice][1]);
+        $('.voto').unbind('click');
+        $(".voto").click(function () {
+            vote(cand_id, chunks[chunk_choice][0], $(this).attr("id"))
+            });
+    }
+    
+    function renderMark(cand_id) {
+        $("#texto").html("");
+        var tree = [];
+        $.each(d, function(i, item) {
+            if (item[0] == 'header' && item[1]['level'] == 1) {
+                tree.push("<h1>" + item[2] + "</h1>");
+            }
+            if (item[0] == 'header' && item[1]['level'] == 2) {
+                tree.push("<h2>" + item[2] + "</h2>");
+            }
+            if (item[0] == 'para') {
+                tree.push("<p class='" + item[2] + "'>" + item[1] + "</p>");
+            }
+        });
+        $("#texto").append(tree.join(""));
+    }
+    </script>
+</head>
+<body>
+    <h1>Esquerdometro!</h1>
+    <blockquote id="bloco"></blockquote>
+    <button class="voto" id="esquerda">Esquerda</button>
+    <button class="voto" id="indiferente">Indiferente</button>
+    <button class="voto" id="direita">Direita</button>
+    <button class="show" onClick="renderMark(0);">Mostra plano</button>
+    <div id="texto"></div>
+    <script type="text/javascript">
+    
+    var data = [loadJson("data/serra.json"), loadJson("data/soninha.json"), loadJson("data/gianazzi.json")];
+    renderChunk(0);
+    
+    </script>
+</body>
+</html>
